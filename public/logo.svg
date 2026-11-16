@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+  <defs>
+    <linearGradient id="redGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF2E3B"/>
+      <stop offset="100%" stop-color="#B30710"/>
+    </linearGradient>
+    <linearGradient id="curtainShade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E50914"/>
+      <stop offset="50%" stop-color="#FF3844"/>
+      <stop offset="100%" stop-color="#99050C"/>
+    </linearGradient>
+    <filter id="shadowDrop" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#E50914" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <!-- Background Badge / Shield -->
+  <rect x="8" y="8" width="84" height="84" rx="20" fill="#18181D" stroke="#2B2B33" stroke-width="2"/>
+  
+  <!-- Stylized Film Strip + Theatre Curtain Pleats + Letter M -->
+  <!-- Left Curtain Wing / Film Strip with Sprocket Holes -->
+  <path d="M24 24 C24 24 30 28 34 38 L34 76 C30 72 24 74 24 74 Z" fill="url(#curtainShade)" filter="url(#shadowDrop)"/>
+  <rect x="26" y="30" width="3.5" height="5" rx="1" fill="#FFFFFF" fill-opacity="0.85"/>
+  <rect x="26" y="42" width="3.5" height="5" rx="1" fill="#FFFFFF" fill-opacity="0.85"/>
+  <rect x="26" y="54" width="3.5" height="5" rx="1" fill="#FFFFFF" fill-opacity="0.85"/>
+  <rect x="26" y="65" width="3.5" height="4.5" rx="1" fill="#FFFFFF" fill-opacity="0.85"/>
+
+  <!-- Center Peak / Fold (Dynamic Curtain drape forming 'M' / Cinema Stage) -->
+  <path d="M34 38 L50 60 L66 38 L66 76 C60 72 50 75 50 75 C50 75 40 72 34 76 Z" fill="url(#redGlow)"/>
+
+  <!-- Right Curtain Wing / Film Strip with Sprocket Holes -->
+  <path d="M76 24 C76 24 70 28 66 38 L66 76 C70 72 76 74 76 74 Z" fill="url(#curtainShade)" filter="url(#shadowDrop)"/>
+  <rect x="70.5" y="30" width="3.5" height="5" rx="1" fill="#FFFFFF" fill-opacity="0.85"/>
+  <rect x="70.5" y="42" width="3.5" height="5" rx="1" fill="#FFFFFF" fill-opacity="0.85"/>
+  <rect x="70.5" y="54" width="3.5" height="5" rx="1" fill="#FFFFFF" fill-opacity="0.85"/>
+  <rect x="70.5" y="65" width="3.5" height="4.5" rx="1" fill="#FFFFFF" fill-opacity="0.85"/>
+
+  <!-- Play icon / Star spark at center top -->
+  <polygon points="50,23 54,31 63,32 56,38 58,47 50,42 42,47 44,38 37,32 46,31" fill="#FFFFFF" opacity="0.95"/>
+</svg>

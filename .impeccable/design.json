@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-16T12:00:00Z",
+  "title": "Design System: Milli Pərdə",
+  "extensions": {
+    "colorMeta": {
+      "cinema-red": { "role": "primary", "displayName": "Cinema Red", "canonical": "#e50914", "tonalRamp": ["#2a0003", "#410001", "#690003", "#930007", "#c0000c", "#e50914", "#ff6a64", "#ffdad5"] },
+      "cinema-red-hover": { "role": "primary", "displayName": "Cinema Red Bright", "canonical": "#f40612", "tonalRamp": ["#2a0003", "#410001", "#690003", "#930007", "#c0000c", "#e50914", "#f40612", "#ffdad5"] },
+      "rose-accent": { "role": "primary", "displayName": "Rose Accent", "canonical": "#ffb4aa", "tonalRamp": ["#410001", "#690003", "#930007", "#c0000c", "#e50914", "#ff6a64", "#ffb4aa", "#ffdad5"] },
+      "background": { "role": "neutral", "displayName": "Screening Room Black", "canonical": "#131316", "tonalRamp": ["#0e0e11", "#131316", "#1b1b1e", "#1f1f22", "#2a2a2d", "#353438", "#39393c", "#e4e1e6"] },
+      "surface-lowest": { "role": "neutral", "displayName": "Projection Well", "canonical": "#0e0e11", "tonalRamp": ["#0e0e11", "#131316", "#1b1b1e", "#1f1f22", "#2a2a2d", "#353438", "#39393c", "#e4e1e6"] },
+      "secondary-text": { "role": "secondary", "displayName": "Steel Mist", "canonical": "#c0c7d3", "tonalRamp": ["#151c25", "#2a313b", "#404752", "#5a616c", "#8a919d", "#afb5c2", "#c0c7d3", "#dce3f0"] },
+      "amber-note": { "role": "tertiary", "displayName": "Amber Note", "canonical": "#f1be6d", "tonalRamp": ["#281900", "#432c00", "#604100", "#946b22", "#c79443", "#f1be6d", "#ffdeae", "#fff8f2"] }
+    },
+    "typographyMeta": {
+      "display-hero": { "displayName": "Display Hero", "purpose": "Featured film title and film-page title; 44px mobile, 72px/72px from md." },
+      "display-hero-xl": { "displayName": "Display Hero XL", "purpose": "Home hero title from md up: Oswald 600, 96px/94px, 0.04em, uppercase." },
+      "headline-xl": { "displayName": "Headline XL", "purpose": "Section and row titles, era names; initials in the 80px large monogram (38px)." },
+      "headline-lg": { "displayName": "Headline LG", "purpose": "Wordmark and film-page sub-sections; initials in the 48px monogram (28px)." },
+      "body-lg": { "displayName": "Body LG", "purpose": "Synopses and overviews, max 56-62ch." },
+      "label-lg": { "displayName": "Label LG", "purpose": "Buttons, nav links, card titles." },
+      "label-md": { "displayName": "Label MD", "purpose": "Metadata, chips, pills." }
+    },
+    "shadows": [
+      { "name": "card-lift", "value": "0 18px 32px -12px rgba(0,0,0,0.8)", "purpose": "Film card hover and focus, with translateY(-4px)." },
+      { "name": "header-solid", "value": "0 8px 24px -12px rgba(0,0,0,0.8)", "purpose": "Header after scroll." },
+      { "name": "mobile-bar", "value": "0 -8px 24px rgba(0,0,0,0.6)", "purpose": "Bottom tab bar." },
+      { "name": "player", "value": "0 24px 40px -16px rgba(0,0,0,0.9)", "purpose": "Film-page player frame." }
+    ],
+    "motion": [
+      { "name": "ease-out-expo", "value": "cubic-bezier(0.16, 1, 0.3, 1)", "purpose": "Hero rise, card lift, still zoom." },
+      { "name": "rise", "value": "800ms, translateY(18px) to 0, 80ms stagger", "purpose": "Home hero entrance; removed under reduced motion." },
+      { "name": "reduced-motion", "value": "transition-property: color, background-color, border-color, opacity, box-shadow", "purpose": "Under prefers-reduced-motion only movement stops (rise, smooth scroll); color, opacity and shadow transitions remain." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "768px" },
+      { "name": "lg", "value": "1024px" },
+      { "name": "xl", "value": "1280px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Red play action; hero and film entry.",
+      "html": "<button class=\"ds-btn-primary\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M6 4l14 8-14 8z\"/></svg>İzlə</button>",
+      "css": ".ds-btn-primary{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:14px 40px;border:0;border-radius:8px;background:#e50914;color:#fff7f6;font:600 14px/20px 'Plus Jakarta Sans Variable',system-ui,sans-serif;letter-spacing:.01em;box-shadow:0 20px 25px -5px rgba(0,0,0,.4);cursor:pointer;transition:background-color .2s,transform .2s}.ds-btn-primary:hover{background:#f40612}.ds-btn-primary:active{transform:scale(.98)}.ds-btn-primary:focus-visible{outline:2px solid #ffb4aa;outline-offset:3px}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outlined action that opens YouTube in a new tab; film page and hero, never on cards.",
+      "html": "<a class=\"ds-btn-secondary\" href=\"#\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M15 3h6v6M10 14L21 3M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"/></svg>YouTube-da aç</a>",
+      "css": ".ds-btn-secondary{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:14px 24px;border:1px solid #5e3f3b;border-radius:8px;background:rgba(42,42,45,.7);color:#e4e1e6;font:600 14px/20px 'Plus Jakarta Sans Variable',system-ui,sans-serif;text-decoration:none;transition:background-color .2s}.ds-btn-secondary:hover{background:#353438}.ds-btn-secondary:focus-visible{outline:2px solid #ffb4aa;outline-offset:3px}"
+    },
+    {
+      "name": "Filter Pill",
+      "kind": "chip",
+      "refersTo": "pill-filter",
+      "description": "Round filter toggle; active state fills red.",
+      "html": "<button class=\"ds-pill\">Sovet dövrü</button> <button class=\"ds-pill ds-pill-on\">Müstəqillik</button>",
+      "css": ".ds-pill{min-height:40px;padding:0 24px;border:0;border-radius:9999px;background:#2a2a2d;color:#c0c7d3;font:600 12px/16px 'Plus Jakarta Sans Variable',system-ui,sans-serif;letter-spacing:.02em;cursor:pointer;transition:background-color .2s,color .2s}.ds-pill:hover{background:#353438;color:#e4e1e6}.ds-pill-on,.ds-pill-on:hover{background:#e50914;color:#fff7f6}.ds-pill:focus-visible{outline:2px solid #ffb4aa;outline-offset:3px}"
+    },
+    {
+      "name": "Film Card",
+      "kind": "card",
+      "refersTo": "film-card",
+      "description": "Whole card links to the internal /film/:id page; 16:9 YouTube mid-film frame (maxres2, mq2 srcset), title and year, red play disc on hover. No info button.",
+      "html": "<article class=\"ds-card\"><div class=\"ds-card-still\"><span class=\"ds-card-title-fallback\">Nəsimi</span><span class=\"ds-card-play\"><svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M6 4l14 8-14 8z\"/></svg></span></div><div class=\"ds-card-body\"><h3>Nəsimi</h3><p>1973 • Tarixi</p></div></article>",
+      "css": ".ds-card{width:288px;overflow:hidden;border-radius:12px;background:#2a2a2d;box-shadow:0 0 0 1px rgba(255,255,255,.05);transition:transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s}.ds-card:hover{transform:translateY(-4px);box-shadow:0 18px 32px -12px rgba(0,0,0,.8)}.ds-card-still{position:relative;aspect-ratio:16/9;display:flex;align-items:flex-end;padding:16px;background:linear-gradient(135deg,#2a2a2d,#0e0e11)}.ds-card-title-fallback{font:600 28px/28px 'Oswald Variable',Oswald,'Arial Narrow',sans-serif;text-transform:uppercase;color:#e4e1e6;letter-spacing:.02em}.ds-card-play{position:absolute;inset:0;margin:auto;width:48px;height:48px;display:flex;align-items:center;justify-content:center;border-radius:9999px;background:#e50914;color:#fff7f6;opacity:0;transform:scale(.75);transition:opacity .3s,transform .3s}.ds-card:hover .ds-card-play{opacity:1;transform:scale(1)}.ds-card-body{padding:16px;font-family:'Plus Jakarta Sans Variable',system-ui,sans-serif}.ds-card-body h3{margin:0;font:700 14px/20px 'Plus Jakarta Sans Variable',system-ui,sans-serif;color:#e4e1e6}.ds-card:hover h3{color:#ffb4aa}.ds-card-body p{margin:2px 0 0;font:600 12px/16px 'Plus Jakarta Sans Variable',system-ui,sans-serif;color:#c0c7d3}"
+    },
+    {
+      "name": "Era Tile",
+      "kind": "card",
+      "refersTo": "era-tile",
+      "description": "Jump tile into the catalogue by era; fills red on hover.",
+      "html": "<a class=\"ds-era\" href=\"#\"><span><span class=\"ds-era-name\">Sovet dövrü</span><span class=\"ds-era-meta\">1920-1991 · 24 film</span></span><svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></a>",
+      "css": ".ds-era{display:flex;align-items:center;justify-content:space-between;gap:16px;width:320px;padding:24px;border-radius:12px;background:#1b1b1e;text-decoration:none;transition:background-color .2s}.ds-era svg{color:#ffb4aa;transition:transform .3s}.ds-era-name{display:block;font:600 38px/38px 'Oswald Variable',Oswald,'Arial Narrow',sans-serif;letter-spacing:.03em;text-transform:uppercase;color:#e4e1e6}.ds-era-meta{display:block;margin-top:8px;font:400 14px/22px 'Plus Jakarta Sans Variable',system-ui,sans-serif;color:#c0c7d3}.ds-era:hover{background:#e50914}.ds-era:hover .ds-era-name,.ds-era:hover .ds-era-meta,.ds-era:hover svg{color:#fff7f6}.ds-era:hover svg{transform:translateX(4px)}.ds-era:focus-visible{outline:2px solid #ffb4aa;outline-offset:3px}"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "search-input",
+      "description": "Round header search that widens on focus.",
+      "html": "<div class=\"ds-search\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"M21 21l-4.3-4.3\"/></svg><input type=\"search\" placeholder=\"Film, rejissor və ya aktyor axtarın...\"></div>",
+      "css": ".ds-search{position:relative;width:224px;transition:width .3s}.ds-search:focus-within{width:288px}.ds-search svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#e9bcb6;pointer-events:none}.ds-search input{width:100%;box-sizing:border-box;padding:10px 16px 10px 40px;border:0;border-radius:9999px;background:#2a2a2d;color:#e4e1e6;font:400 12px/18px 'Plus Jakarta Sans Variable',system-ui,sans-serif;outline:none;transition:background-color .3s}.ds-search input::placeholder{color:#af8782}.ds-search input:focus{background:#353438;box-shadow:0 0 0 2px #ffb4aa}"
+    },
+    {
+      "name": "Header Navigation",
+      "kind": "nav",
+      "refersTo": "button-primary",
+      "description": "Wordmark with active red link pill.",
+      "html": "<nav class=\"ds-nav\"><span class=\"ds-logo\">Milli <span>Pərdə</span></span><a class=\"ds-nav-on\" href=\"#\">Ana səhifə</a><a href=\"#\">Filmlər</a><a href=\"#\">Rejissorlar</a><a href=\"#\">Aktyorlar</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:4px;padding:0 24px;height:64px;background:#0e0e11;font-family:'Plus Jakarta Sans Variable',system-ui,sans-serif}.ds-logo{margin-right:24px;font:600 28px/32px 'Oswald Variable',Oswald,'Arial Narrow',sans-serif;text-transform:uppercase;letter-spacing:.05em;color:#e4e1e6}.ds-logo span{color:#e50914}.ds-nav a{padding:8px 16px;border-radius:8px;color:#e9bcb6;font:600 14px/20px 'Plus Jakarta Sans Variable',system-ui,sans-serif;text-decoration:none;transition:color .2s}.ds-nav a:hover{color:#e4e1e6}.ds-nav a.ds-nav-on{background:#e50914;color:#fff7f6;font-weight:700}.ds-nav a:focus-visible{outline:2px solid #ffb4aa;outline-offset:3px}"
+    },
+    {
+      "name": "Monogram Avatar",
+      "kind": "custom",
+      "refersTo": "monogram",
+      "description": "Neutral initials disc (surface-container-highest, ring-white/10, no red gradient) used when no verified photo exists; 48px with 28px initials, 80px large with 38px initials.",
+      "html": "<span class=\"ds-mono\">NV</span> <span class=\"ds-mono ds-mono-lg\">NV</span>",
+      "css": ".ds-mono{display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;border-radius:9999px;background:#353438;color:#e4e1e6;box-shadow:0 0 0 1px rgba(255,255,255,.1);font:600 28px/32px 'Oswald Variable',Oswald,'Arial Narrow',sans-serif;letter-spacing:.02em;text-transform:uppercase}.ds-mono-lg{width:80px;height:80px;font-size:38px;line-height:42px;letter-spacing:.03em}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Dark Screening Room",
+    "overview": "Milli Pərdə is a catalogue of Azerbaijani national cinema built as a near-black cinema room: a charcoal field (#131316) with a deeper well (#0e0e11) for chrome and a single saturated cinema red (#e50914) that marks the one thing to do next, which is to play a film. The film frames themselves, real YouTube stills in 16:9, supply all the color and imagery; the interface stays out of their way.\n\nDensity is medium and carousel-driven: horizontal rows of frames, generous 40px vertical rhythm between rows, and rounded soft surfaces rather than hard edges. Depth comes from tonal layering of near-black surfaces; shadows are soft and black. All interface copy is Azerbaijani; the Ə/ə glyphs are part of the brand, which is why the title face is Oswald.",
+    "keyCharacteristics": [
+      "Tonal near-black layering from #0e0e11 to #353438, no light surfaces.",
+      "One red, used for the primary action, active state, hover fill and the Pərdə half of the wordmark.",
+      "Condensed uppercase Oswald titles over Plus Jakarta Sans text.",
+      "16:9 film stills with a red circular play affordance on hover and focus.",
+      "Circular grey monogram initials where no verified person photo exists."
+    ],
+    "rules": [
+      { "name": "The One Red Rule", "body": "Red marks the next action or the current location, nothing else. If two red elements compete in the same viewport, one of them is wrong.", "section": "colors" },
+      { "name": "The Tonal Ladder Rule", "body": "Layers separate by stepping one rung up the surface ladder, not by borders. Cards may carry a 1px white-at-5% ring as the only edge.", "section": "colors" },
+      { "name": "The Oswald-for-Titles Rule", "body": "Oswald is uppercase and used only for titles, row headings and the wordmark. Reading text, buttons, labels and metadata are always Plus Jakarta Sans.", "section": "typography" },
+      { "name": "The Black Shadow Rule", "body": "Shadows are black, long-offset and diffuse. No hard offset shadows, no colored glows.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do use Cinema Red (#e50914) only for the primary action, active state and hover fill.",
+      "Do keep the page on the tonal ladder (#0e0e11 to #353438) and separate layers by one rung.",
+      "Do set titles in uppercase Oswald and everything readable in Plus Jakarta Sans; keep Ə/ə visible in titles.",
+      "Do show film frames at 16:9 with the 12px card radius and the red play disc on hover and focus.",
+      "Do tag trailers, fragments and searches in Amber Note so the link is honest.",
+      "Do use real person photos from Wikipedia or Wikimedia Commons when verified, otherwise the monogram.",
+      "Do keep the Rose Accent focus ring on every interactive element and honor reduced motion."
+    ],
+    "donts": [
+      "Don't add ratings, scores, watchlists or view counts; the product has none.",
+      "Don't use light surfaces, gradients on buttons, or a second saturated hue.",
+      "Don't use hard offset or colored shadows.",
+      "Don't set body or UI labels in Oswald, or titles in lowercase.",
+      "Don't invent posters; cards show real video frames or the title-card fallback."
+    ]
+  }
+}

@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "nesimi",
+    "title": "Nəsimi",
+    "year": 1973,
+    "director": "Həsən Seyidbəyli",
+    "genres": [
+      "Tarixi",
+      "Dram",
+      "Bioqrafik"
+    ],
+    "runtimeMinutes": 96,
+    "cast": [
+      {
+        "name": "Rasim Balayev",
+        "role": "Nəsimi"
+      },
+      {
+        "name": "İsmayıl Osmanlı",
+        "role": "Naimi"
+      },
+      {
+        "name": "Xalidə Quliyeva",
+        "role": "Fatma"
+      },
+      {
+        "name": "Kamal Xudaverdiyev",
+        "role": "Yusif"
+      },
+      {
+        "name": "Almaz Əsgərova",
+        "role": "Şəms"
+      }
+    ],
+    "synopsis": "XIV əsrin böyük Azərbaycan şairi və mütəfəkkiri İmadəddin Nəsiminin taleyindən bəhs edən bioqrafik film. Nəsimi humanizmi təbliğ edir, feodal zülmünə qarşı çıxır və bunun bədəli ağır, faciəli bir ömür olur.",
+    "overview": "Film Azərbaycanfilm studiyasında Nəsiminin anadan olmasının 600 illiyi ərəfəsində çəkilib. Ssenarini İsa Hüseynov İsa Muğannanın tarixi romanı əsasında yazıb, musiqisi Tofiq Quliyevindir. Rasim Balayev baş rola görə 1974-cü ildə Bakıda keçirilən Ümumittifaq kino festivalında ən yaxşı aktyor mükafatı alıb, film isə ən yaxşı tarixi film kimi seçilib. Nəsimi obrazı Balayevin karyerasında dönüş nöqtəsi sayılır və film sovet dövrü Azərbaycan tarixi kinosunun ən görkəmli nümunələrindən biridir.",
+    "image": "https://i.ytimg.com/vi/U1csklsXuAs/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/U1csklsXuAs/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=U1csklsXuAs",
+    "youtubeId": "U1csklsXuAs",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "qaynana",
+    "title": "Qaynana",
+    "year": 1978,
+    "director": "Hüseyn Seyidzadə",
+    "genres": [
+      "Komediya",
+      "Musiqili"
+    ],
+    "runtimeMinutes": 75,
+    "cast": [
+      {
+        "name": "Nəsibə Zeynalova",
+        "role": "Cənnət"
+      },
+      {
+        "name": "İnarə Quliyeva",
+        "role": "Zərifə"
+      },
+      {
+        "name": "İlham Namiq Kamal",
+        "role": "İlqar"
+      },
+      {
+        "name": "Tanilə Əhmərova",
+        "role": "Sevda"
+      },
+      {
+        "name": "Fuad Poladov",
+        "role": "Ayaz"
+      },
+      {
+        "name": "Səfurə İbrahimova",
+        "role": "Sədaqət"
+      },
+      {
+        "name": "Tələt Rəhmanov",
+        "role": "Əli"
+      }
+    ],
+    "synopsis": "Gənc bəstəkar Ayazın ailəsində anası Cənnət xanımın gəlinləri ilə münasibəti getdikcə gərginləşir, söz-söhbət və mübahisələr böyüyür. Dostu İlqar araya girib vəziyyəti həll edir. Film Məcid Şamxalovun eyniadlı pyesi əsasında çəkilib.",
+    "overview": "Azərbaycanfilmdə çəkilmiş bu musiqili komediyanın ssenarisini Əjdər İbrahimov və Marqarita Maleyeva Məcid Şamxalovun pyesinin motivləri əsasında yazıblar; musiqi Tofiq Quliyevə məxsusdur, operator Fikrət Əsgərovdur. İlk ekran nümayişi 1979-cu ilin sentyabrında olub. Aşqabadda keçirilən XII Ümumittifaq kino festivalında (1979) Tofiq Quliyev musiqiyə görə mükafat, Nəsibə Zeynalova isə diplom alıb. Film köhnəlmiş adət-ənənələrin ailəyə zərərini yumorla göstərən məşhur ailə komediyasıdır.",
+    "image": "https://i.ytimg.com/vi/JFGKyPqQuwA/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/JFGKyPqQuwA/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JFGKyPqQuwA",
+    "youtubeId": "JFGKyPqQuwA",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "o-olmasin-bu-olsun",
+    "title": "O olmasın, bu olsun",
+    "year": 1956,
+    "director": "Hüseyn Seyidzadə",
+    "genres": [
+      "Komediya",
+      "Musiqili",
+      "Melodram"
+    ],
+    "runtimeMinutes": 87,
+    "cast": [
+      {
+        "name": "Əliağa Ağayev",
+        "role": "Məşədi İbad"
+      },
+      {
+        "name": "Arif Mirzəquliyev",
+        "role": "Sərvər"
+      },
+      {
+        "name": "Tamara Gözəlova",
+        "role": "Gülnaz"
+      },
+      {
+        "name": "Ağasadıq Gəraybəyli",
+        "role": "Rüstəm bəy"
+      },
+      {
+        "name": "Barat Şəkinskaya",
+        "role": "Sənəm"
+      },
+      {
+        "name": "Münəvvər Kələntərli",
+        "role": "Yengə"
+      }
+    ],
+    "synopsis": "Üzeyir Hacıbəyovun operettası əsasında çəkilmiş film 1910-cu illərin Bakısında Sərvərlə Gülnazın məhəbbətindən danışır. Gənclərin sevgisi pul hərisliyini, cəhaləti və feodal qalıqlarını məğlub edir.",
+    "overview": "Üzeyir Hacıbəyovun 1911-ci ildə səhnəyə qoyulmuş eyniadlı operettasının ekran variantıdır; ssenari müəllifi Sabit Rəhman, operatoru Əlisəttar Atakişiyevdir. Film Azərbaycanın ilk rəngli bədii filmi hesab olunur və Taşkənddə keçirilən Asiya və Afrika ölkələri beynəlxalq festivalında yüksək qiymət alıb. SSRİ-də Novruzun qeyd olunması qadağan olunan dövrdə Novruz adətlərini ekrana gətirməsi və illər boyu bayram günlərində televiziyada nümayiş olunması filmin mədəni əhəmiyyətini artırıb.",
+    "image": "https://i.ytimg.com/vi/mZTbGUGk7Rc/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/mZTbGUGk7Rc/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mZTbGUGk7Rc",
+    "youtubeId": "mZTbGUGk7Rc",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "bext-uzuyu",
+    "title": "Bəxt üzüyü",
+    "year": 1991,
+    "director": "Ramiz Əzizbəyli",
+    "genres": [
+      "Komediya",
+      "Dram"
+    ],
+    "runtimeMinutes": 97,
+    "cast": [
+      {
+        "name": "Afaq Bəşirqızı",
+        "role": "Söylü"
+      },
+      {
+        "name": "Valeh Kərimov",
+        "role": "Moşu Göyəzənli"
+      },
+      {
+        "name": "Gülşad Baxşıyeva",
+        "role": "Sara"
+      },
+      {
+        "name": "Ayşad Məmmədov",
+        "role": "Hüseyn"
+      },
+      {
+        "name": "Firəngiz Rəhimbəyli",
+        "role": "Sevda"
+      },
+      {
+        "name": "Nəsir Sadıqzadə",
+        "role": "Tanrıbəy"
+      },
+      {
+        "name": "Rəfael Dadaşov",
+        "role": "Rasim"
+      }
+    ],
+    "synopsis": "Saranın bəxt üzüyünün itməsi ailə və ətraf münasibətlərini sarsıdır, bu hadisə qarşısında hər kəsin xarakteri və dünyagörüşü üzə çıxır. Film Vaqif Səmədoğlunun eyniadlı pyesi əsasında çəkilib.",
+    "overview": "Film Azərbaycanfilmdə deyil, müstəqil \"Qara Qayafilm\" studiyasında çəkilib; ssenarini Ramiz Əzizbəyli və Orxan Fikrətoğlu Vaqif Səmədoğlunun pyesinin motivləri ilə yazıblar, musiqisi Eldar Mansurovundur. Pyesdən fərqli olaraq burada üzük satılmır, sadəcə itir və cəmiyyətin xoşbəxtliyinin simvoluna çevrilir. Film 1993-cü ildə II Azərbaycan filmləri festivalında tamaşaçı rəğbəti mükafatı qazanıb; 2017-ci ildə davamı çəkilib.",
+    "image": "https://i.ytimg.com/vi/tt8Z-I4u2gA/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/tt8Z-I4u2gA/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tt8Z-I4u2gA",
+    "youtubeId": "tt8Z-I4u2gA",
+    "linkKind": "full",
+    "channel": "KinoBiz"
+  },
+  {
+    "id": "babek",
+    "title": "Babək",
+    "year": 1979,
+    "director": "Eldar Quliyev",
+    "genres": [
+      "Tarixi",
+      "Dram",
+      "Bioqrafik"
+    ],
+    "runtimeMinutes": 128,
+    "cast": [
+      {
+        "name": "Rasim Balayev",
+        "role": "Babək"
+      },
+      {
+        "name": "Həsənağa Turabov",
+        "role": "Afşin"
+      },
+      {
+        "name": "Amaliya Pənahova",
+        "role": "Zərnisə"
+      },
+      {
+        "name": "Şahmar Ələkbərov",
+        "role": "Cavidan"
+      },
+      {
+        "name": "Tamara Yandiyeva",
+        "role": "Pərvin"
+      },
+      {
+        "name": "Məmməd Verdiyev",
+        "role": "Buğday"
+      },
+      {
+        "name": "Hamid Azayev",
+        "role": "Əzrək"
+      }
+    ],
+    "synopsis": "Film Xürrəmilər hərəkatının rəhbəri Babəkin yüksəlişini, xilafət ordularına qarşı mübarizəsini və sonda əsir düşərək edam edilməsini göstərir. Babək xalq qəhrəmanı kimi təqdim olunur.",
+    "overview": "Azərbaycanfilm və Mosfilmin birgə istehsalı olan bu epik film Azərbaycan SSR-də çəkilmiş ən bahalı film kimi qeyd olunur. Ssenarisi Anvər Məmmədxanlıya məxsusdur; çəkilişlərə tarixçi Ziya Bünyadov məsləhətçi kimi cəlb olunub. Layihəyə əvvəlcə Həsən Seyidbəyli rəhbərlik edib, sonra rejissor Eldar Quliyev işi tamamlayıb. Naxçıvanda minlərlə iştirakçı ilə çəkilən film Rasim Balayevin Babək roluna görə də yadda qalıb və Azərbaycan kinosunun ən böyük tarixi tablolarından sayılır.",
+    "image": "https://i.ytimg.com/vi/Q_pw4eOm3wI/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/Q_pw4eOm3wI/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q_pw4eOm3wI",
+    "youtubeId": "Q_pw4eOm3wI",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "dolu",
+    "title": "Dolu",
+    "year": 2012,
+    "director": "Elxan Cəfərov",
+    "genres": [
+      "Hərbi",
+      "Dram"
+    ],
+    "runtimeMinutes": 84,
+    "cast": [
+      {
+        "name": "Məmməd Səfa",
+        "role": "Komandir"
+      },
+      {
+        "name": "Rza Rzayev",
+        "role": "Drakon"
+      },
+      {
+        "name": "Elvin Əhmədov",
+        "role": "Pələng"
+      },
+      {
+        "name": "Fuad Poladov",
+        "role": "Katib"
+      },
+      {
+        "name": "Gülzar Qurbanova",
+        "role": "Pələngin anası"
+      },
+      {
+        "name": "Şamil Süleymanlı",
+        "role": "Müəllim"
+      }
+    ],
+    "synopsis": "Birinci Qarabağ müharibəsi dövründə baş verən hərbi drama: sayca çox üstün düşmən qarşısında belə vətən uğrunda döyüşməkdən çəkinməyən Azərbaycan əsgərlərinin hekayəsi. Film Əqil Abbasın eyniadlı romanı əsasında çəkilib.",
+    "overview": "Film Azərbaycanfilm studiyasında Əqil Abbasın öz romanı əsasında çəkilib, ssenarini də müəllifin özü yazıb; musiqi Polad Bülbüloğluna məxsusdur. Premyerası 2012-ci il avqustun 2-də Milli Kino Günü münasibətilə Nizami Kino Mərkəzində keçirilib, sonra Moskvada və Gürcüstanda nümayiş olunub. Daxili qoşunların hərbçiləri kütləvi döyüş səhnələrində iştirak edib, Mayak Kərimovun son kino rolu da bu filmdədir. Yaradıcı heyət 2013-cü ildə \"Zirvə\" mükafatına layiq görülüb. Film müstəqillik dövrünün Qarabağ müharibəsi mövzusunda çəkilmiş bədii filmlərindən biridir.",
+    "image": "https://i.ytimg.com/vi/xYcT3-9W1f0/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/xYcT3-9W1f0/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xYcT3-9W1f0",
+    "youtubeId": "xYcT3-9W1f0",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "feryad",
+    "title": "Fəryad",
+    "year": 1993,
+    "director": "Ceyhun Mirzəyev",
+    "genres": [
+      "Dram",
+      "Hərbi"
+    ],
+    "runtimeMinutes": 78,
+    "cast": [
+      {
+        "name": "Ceyhun Mirzəyev",
+        "role": "İsmayıl"
+      },
+      {
+        "name": "Məlik Dadaşov",
+        "role": "Xaçaturyan"
+      },
+      {
+        "name": "Hacı İsmayılov",
+        "role": "Rövşən"
+      },
+      {
+        "name": "Liana Qudadze",
+        "role": "Asya"
+      },
+      {
+        "name": "Fikrət Məmmədov",
+        "role": "Erməni əsgəri"
+      },
+      {
+        "name": "Fərəc Fərəcov",
+        "role": "Xoren"
+      }
+    ],
+    "synopsis": "Birinci Qarabağ müharibəsi dövründə batalyon komandiri İsmayıl Azərbaycan torpaqlarını azad etmək uğrunda döyüşür, lakin əsir düşür. Film real döyüşçünün taleyi əsasında çəkilib.",
+    "overview": "Film Ceyhun Mirzəyevin kinoda sonuncu işi olub; rejissor həm də baş rolu oynayıb və 1993-cü ildə vəfat etdiyi üçün işin tam başa çatmasını görə bilməyib. Ssenari müəllifi Vaqif Mustafayevdir, istehsalçılar \"Aşkarfilm\" şirkəti və \"İnkişaf\" bankıdır, yayımı Azərbaycanfilm həyata keçirib. Lentdə sənədli çəkilişlərdən də istifadə olunub. Mustafayev 1994-cü ildə ssenariyə görə \"Tağıyev\" mükafatı alıb, Mirzəyev isə ölümündən sonra 1995-ci ildə müsabiqə-festivalda diplomla təltif olunub. Film Birinci Qarabağ müharibəsi mövzusunu 1990-cı illərin əvvəlində ekrana gətirən işlərdəndir.",
+    "image": "https://i.ytimg.com/vi/P0jcgIcdvpo/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/P0jcgIcdvpo/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=P0jcgIcdvpo",
+    "youtubeId": "P0jcgIcdvpo",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "bizim-cebis-muellim",
+    "title": "Bizim Cəbiş müəllim",
+    "year": 1969,
+    "director": "Həsən Seyidbəyli",
+    "genres": [
+      "Dram",
+      "Hərbi"
+    ],
+    "runtimeMinutes": 72,
+    "cast": [
+      {
+        "name": "Süleyman Ələsgərov",
+        "role": "Cəbiş"
+      },
+      {
+        "name": "Şəfiqə Məmmədova",
+        "role": "Cəbişin həyat yoldaşı"
+      },
+      {
+        "name": "Muxtar Maniyev",
+        "role": "Nəcəfov"
+      },
+      {
+        "name": "Nəsibə Zeynalova",
+        "role": "Suğra xala"
+      },
+      {
+        "name": "Ziya Seyidbəyli",
+        "role": "Namiq"
+      },
+      {
+        "name": "Əliağa Ağayev",
+        "role": "Əbülfəz"
+      }
+    ],
+    "synopsis": "İkinci Dünya müharibəsi illərində Bakıda keçən film adi insanların çətinliklərə sinə gərərək cəbhəyə dəstək verməsindən və Vətənin azadlığını hər şeydən üstün tutmasından bəhs edir. Ssenari Maqsud İbrahimbəyovun əsərinə əsaslanır.",
+    "overview": "Ağ-qara film Azərbaycanfilm studiyasında Maqsud İbrahimbəyovun \"Müharibənin 1001 gecəsi\" ssenarisi əsasında çəkilib; operator Arif Nərimanbəyov, bəstəkar Emin Sabitoğludur. Film 1969-cu il dekabrın 30-da ekranlara çıxıb. Süleyman Ələsgərov Cəbiş obrazına görə 1970-ci ildə Minskdə keçirilən IV Ümumittifaq kino festivalında diplomla təltif olunub. Film müharibə dövrü Bakısını sıravi insanların çətinlikləri və əxlaqi dayanıqlığı üzərindən göstərməsi ilə seçilir.",
+    "image": "https://i.ytimg.com/vi/br9zD5f-c4A/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/br9zD5f-c4A/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=br9zD5f-c4A",
+    "youtubeId": "br9zD5f-c4A",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "usaqligin-son-gecesi",
+    "title": "Uşaqlığın son gecəsi",
+    "year": 1968,
+    "director": "Arif Babayev",
+    "genres": [
+      "Dram",
+      "Komediya",
+      "Cinayət"
+    ],
+    "runtimeMinutes": 89,
+    "cast": [
+      {
+        "name": "Ənvər Həsənov",
+        "role": "Murad"
+      },
+      {
+        "name": "Səyavuş Şəfiyev",
+        "role": "Rüstəm"
+      },
+      {
+        "name": "Ətayə Əliyeva",
+        "role": "Mənsurə"
+      },
+      {
+        "name": "Törəxanım Zeynalova",
+        "role": "Nənə"
+      },
+      {
+        "name": "Ələkbər Seyfi",
+        "role": "İsmayıl"
+      },
+      {
+        "name": "Xosrov Abdullayev",
+        "role": "Məcnun"
+      },
+      {
+        "name": "Məmmədsadıq Nuriyev",
+        "role": "Davud"
+      }
+    ],
+    "synopsis": "Universitetə qəbul ola bilməyən Murad qohumu və dostu, yeni məzun mühəndis Rüstəmlə birlikdə ət kombinatında oğrular dəstəsi ilə üzləşir. Bu qarşıdurma iki gəncə ciddi mənəvi seçimlər qarşısında yetkinləşməyi öyrədir, filmdə həm də ilk məhəbbətlər var.",
+    "overview": "Arif Babayevin Azərbaycanfilmdə çəkdiyi ağ-qara film Maqsud İbrahimbəyovun ssenarisi, Polad Bülbüloğlunun musiqisi ilə hazırlanıb; operator Zaur Məhərrəmovdur. Səməndər Rzayevin ilk kino rolu bu filmdədir, soundtrackdə Beatles mahnılarından da istifadə olunub. 1969-cu ildə Kiyevdə \"Prometey-69\" zona kino festivalında film gənclər mükafatını, Bülbüloğlu isə musiqiyə görə xüsusi diplom alıb. Film 1960-cı illər Azərbaycan kinosunun gənclik və mənəvi seçim mövzusuna həsr olunmuş nümunələrindən biridir.",
+    "image": "https://i.ytimg.com/vi/aSX1AO1zF6Q/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/aSX1AO1zF6Q/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=aSX1AO1zF6Q",
+    "youtubeId": "aSX1AO1zF6Q",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "bir-cenub-seherinde",
+    "title": "Bir cənub şəhərində",
+    "year": 1969,
+    "director": "Eldar Quliyev",
+    "genres": [
+      "Dram"
+    ],
+    "runtimeMinutes": 75,
+    "cast": [
+      {
+        "name": "Həsən Məmmədov",
+        "role": "Murad"
+      },
+      {
+        "name": "Eldəniz Zeynalov",
+        "role": "Tofiq"
+      },
+      {
+        "name": "Hacımurad Yegizarov",
+        "role": "Cahangir"
+      },
+      {
+        "name": "Məcid Dadaşov",
+        "role": "Həsən"
+      },
+      {
+        "name": "Natella Adıgözəlova",
+        "role": "Rəna"
+      }
+    ],
+    "synopsis": "Cənub şəhərciyində yaşayan Murad köhnə əxlaq qaydalarına sadiqdir. Bacısını uşaqlıq dostu Tofiqə vəd edir, lakin Tofiq başqa qıza könül verəndə Muradın namus anlayışı onu çətin seçimlə üz-üzə qoyur.",
+    "overview": "Film Azərbaycanfilm studiyasında Rüstəm İbrahimbəyovun \"9-cu Xrebtovı\" povesti əsasında çəkilib; bu, həm rejissor Eldar Quliyevin, həm də ssenarist İbrahimbəyovun Azərbaycan kinosundakı ilk işi idi. Operator Rasim Ocaqov, bəstəkar Fərəc Qarayevdir. Ağ-qara lent müasir adamın gündəlik həyatına yönəlmiş səmimi baxışı ilə 1960-cı illər Azərbaycan kinosunda yeni mərhələnin əlamətlərindən sayılır. 2000-ci ildə rejissor, ssenarist və operator filmin 30 illiyinə görə \"Humay\" mükafatına layiq görülüb.",
+    "image": "https://i.ytimg.com/vi/DTLxHu9PVhY/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/DTLxHu9PVhY/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=DTLxHu9PVhY",
+    "youtubeId": "DTLxHu9PVhY",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "dede-qorqud",
+    "title": "Dədə Qorqud",
+    "year": 1975,
+    "director": "Tofiq Tağızadə",
+    "genres": [
+      "Tarixi",
+      "Dram",
+      "Melodram"
+    ],
+    "runtimeMinutes": 126,
+    "cast": [
+      {
+        "name": "Həsən Məmmədov",
+        "role": "Dədə Qorqud"
+      },
+      {
+        "name": "Haşım Qədoyev",
+        "role": "Qazan xan"
+      },
+      {
+        "name": "Rasim Balayev",
+        "role": "Bəkil (Beyrək)"
+      },
+      {
+        "name": "Leyla Şıxlinskaya",
+        "role": "Banuçiçək"
+      },
+      {
+        "name": "Şəfiqə Məmmədova",
+        "role": "Burla xatun"
+      },
+      {
+        "name": "Elçin Məmmədov",
+        "role": "Qaraca çoban"
+      }
+    ],
+    "synopsis": "Oğuz elinin müdrik ağsaqqalı Dədə Qorqud xalqın başına gələn müharibələrin və faciələrin şahidi olur, insanları torpağa bağlanmağa çağırır. Film məhəbbət, dostluq, qardaşlıq və vətənə sədaqət mövzularını döyüş səhnələri ilə birlikdə işıqlandırır.",
+    "overview": "Tofiq Tağızadənin çəkdiyi iki seriyalı epik film Azərbaycanfilm studiyasında oğuz eposu \"Kitabi-Dədə Qorqud\" əsasında hazırlanıb. Ssenarini Anar yazıb, musiqisi Emin Sabitoğluya məxsusdur. Azərbaycan mənbələrinə görə, filmin süjeti dastandakı Basatın Təpəgözlə döyüşü və Qazan xanın oğlunun əsirlikdən xilası kimi epizodlara söykənir. Film 1977-ci ildə \"Свет погасших костров\" adı ilə rusca da təqdim olunub və Azərbaycan kinosunda milli epos mövzusunu böyük ekrana gətirən əsas işlərdən biri kimi xatırlanır.",
+    "image": "https://i.ytimg.com/vi/x7GxpWC20Cc/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/x7GxpWC20Cc/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=x7GxpWC20Cc",
+    "youtubeId": "x7GxpWC20Cc",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "yeddi-ogul-isterem",
+    "title": "Yeddi oğul istərəm",
+    "year": 1970,
+    "director": "Tofiq Tağızadə",
+    "genres": [
+      "Dram"
+    ],
+    "runtimeMinutes": 90,
+    "cast": [
+      {
+        "name": "Həsən Məmmədov",
+        "role": "Bəxtiyar"
+      },
+      {
+        "name": "Ənvər Həsənov",
+        "role": "Cəlal"
+      },
+      {
+        "name": "Elçin Məmmədov",
+        "role": "Mirpaşa"
+      },
+      {
+        "name": "Əbdül Mahmudov",
+        "role": "Qasım"
+      },
+      {
+        "name": "Rafiq Əzimov",
+        "role": "Şahsuvar"
+      },
+      {
+        "name": "Həsənağa Turabov",
+        "role": "Kərəc bəy"
+      },
+      {
+        "name": "Zemfira İsmayılova",
+        "role": "Hümay"
+      }
+    ],
+    "synopsis": "1920-ci ildə yeddi gənc kommunist Bəxtiyarın başçılığı ilə sovet hakimiyyətinə qarşı çıxan Kərəc bəyin kəndinə göndərilir. Şair Cəlalla bəyin qızı Hümay arasında yaranan məhəbbət faciə ilə sona çatır.",
+    "overview": "Azərbaycanfilm istehsalı olan bu film Səməd Vurğunun \"Komsomol poeması\"nın motivləri əsasında Yusif Səmədoğlunun ssenarisi ilə çəkilib, bəstəkarı Xəyyam Mirzəzadədir. Azərbaycanda sovet hakimiyyətinin 50 illiyi ilə əlaqədar hazırlanıb. Adı toylarda işlənən xalq məsəlindən götürülüb. Film Vurğunun poetik əsərini lirik-psixoloji dram dilində kinoya uyğunlaşdıraraq ədəbiyyat və kino əlaqəsinin səciyyəvi nümunəsinə çevrilib.",
+    "image": "https://i.ytimg.com/vi/NI9D6hvuOGE/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/NI9D6hvuOGE/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NI9D6hvuOGE",
+    "youtubeId": "NI9D6hvuOGE",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "axirinci-asirim",
+    "title": "Axırıncı aşırım",
+    "year": 1971,
+    "director": "Kamil Rüstəmbəyov",
+    "genres": [
+      "Tarixi",
+      "Macəra",
+      "Dram"
+    ],
+    "runtimeMinutes": 84,
+    "cast": [
+      {
+        "name": "Həsən Məmmədov",
+        "role": "Abbasqulu bəy Şadlinski"
+      },
+      {
+        "name": "Adil İsgəndərov",
+        "role": "Kərbəlayı İsmayıl"
+      },
+      {
+        "name": "Məlik Dadaşov",
+        "role": "Qamlo"
+      },
+      {
+        "name": "Hamlet Xanızadə",
+        "role": "Talıbov"
+      },
+      {
+        "name": "Həsənağa Turabov",
+        "role": "Xəlil"
+      },
+      {
+        "name": "Şahmar Ələkbərov",
+        "role": "İman"
+      }
+    ],
+    "synopsis": "1930-cu illərin əvvəlində, sovet hakimiyyətinin qurulduğu dağ kəndində köhnə nüfuz sahibləri ilə yeni quruluşun tərəfdarları arasında gərgin qarşıdurma baş verir. Film Fərman Kərimzadənin romanı əsasında çəkilib.",
+    "overview": "Azərbaycanfilm studiyasında Kamil Rüstəmbəyovun quruluşu ilə Fərman Kərimzadənin \"Qarlı aşırım\" romanının motivləri əsasında çəkilən filmin ssenarisini müəllif özü yazıb. Musiqi Arif Məlikova, operator işi Rasim İsmayılova məxsusdur. 1972-ci ildə Tbilisidə keçirilən V Ümumittifaq kino festivalında Adil İsgəndərov və Həsən Məmmədov ən yaxşı kişi roluna görə birgə mükafata layiq görülüblər. Film dövrün Azərbaycan macəra-tarixi janrı üçün səciyyəvi nümunədir.",
+    "image": "https://i.ytimg.com/vi/2ZX5ssKQwqw/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/2ZX5ssKQwqw/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2ZX5ssKQwqw",
+    "youtubeId": "2ZX5ssKQwqw",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "hem-ziyaret-hem-ticaret",
+    "title": "Həm ziyarət, həm ticarət",
+    "year": 1995,
+    "director": "Rasim Ocaqov",
+    "genres": [
+      "Komediya",
+      "Dram"
+    ],
+    "runtimeMinutes": 81,
+    "cast": [
+      {
+        "name": "Hacı İsmayılov",
+        "role": "Mustafa"
+      },
+      {
+        "name": "Nuriyyə Əhmədova",
+        "role": "Nuriyyə"
+      },
+      {
+        "name": "Rasim Balayev",
+        "role": "Davud"
+      },
+      {
+        "name": "Həsən Məmmədov",
+        "role": "Əlimurad"
+      },
+      {
+        "name": "Niyazi Əhmədov",
+        "role": "Çingiz"
+      },
+      {
+        "name": "Fərman Abdullayev",
+        "role": "Nazim"
+      }
+    ],
+    "synopsis": "Coğrafiya müəllimi Mustafa həyat yoldaşı ilə birlikdə itkin düşmüş qohumunu tapmaq və eyni zamanda bir az ticarət etmək üçün İstanbula yollanır. Səfər onları gözlənilməz hadisələrlə qarşılaşdırır.",
+    "overview": "Şəkili rejissor Rasim Ocaqovun 1995-ci ildə çəkdiyi komediya-dram müstəqillik illərinin çətin iqtisadi şəraitində adi insanın ticarətə yönəlməsi və Türkiyə səfəri mövzusuna toxunur. Ocaqov Azərbaycanfilmdə 1956-cı ildən çalışmış, sonralar \"Ocaq\" müstəqil studiyasına rəhbərlik etmiş tanınmış ustadır; AzerNews onun yaradıcılığında şəxsiyyət, vicdan və insan münasibətləri mövzularını vurğulayır. Filmin istehsalı, ssenari və mükafatları barədə mənbələr çox məhduddur.",
+    "image": "https://i.ytimg.com/vi/m80bPY_U5nI/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/m80bPY_U5nI/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=m80bPY_U5nI",
+    "youtubeId": "m80bPY_U5nI",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "sari-gelin",
+    "title": "Sarı gəlin",
+    "year": 1998,
+    "director": "Yavər Rzayev",
+    "genres": [
+      "Dram",
+      "Hərbi",
+      "Macəra"
+    ],
+    "runtimeMinutes": 84,
+    "cast": [
+      {
+        "name": "Hacı İsmayılov",
+        "role": "Qədir"
+      },
+      {
+        "name": "Cahangir Novruzov",
+        "role": "Artavas"
+      },
+      {
+        "name": "Münəvvər Əliyeva",
+        "role": "Sarı gəlin"
+      },
+      {
+        "name": "Ramiz Novruzov",
+        "role": "Rasim"
+      },
+      {
+        "name": "Fərman Abdullayev",
+        "role": "Samvel"
+      }
+    ],
+    "synopsis": "Qarabağ müharibəsi illərində sadəlövh və mehriban Qədir könülsüz döyüşə qoşulur və erməni əsiri Artavasın taleyi ilə üz-üzə qalır. Film müharibədən birgə qaçan azərbaycanlı ilə erməninin faciəli taleyindən danışır.",
+    "overview": "Yavər Rzayev həm rejissor, həm ssenarist kimi bu filmi Azərbaycanfilm studiyasında çəkib; operator Rövşən Quliyev, bəstəkar Səyavuş Kərimidir. Film Qarabağ müharibəsini pasifist prizmadan, düşmən sayılan insanla ortaq taleyi vasitəsilə təqdim edir; adı məşhur xalq mahnısından götürülüb. 1999-cu ildə Anapadakı \"Kinoşok\" festivalında ən yaxşı ssenariyə, 2000-ci ildə Karlovı-Varı festivalının \"Qərbin Şərqi\" bölməsində Philip Morris \"Azadlıq\" mükafatına layiq görülüb.",
+    "image": "https://i.ytimg.com/vi/v8RJKSK7DPU/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/v8RJKSK7DPU/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=v8RJKSK7DPU",
+    "youtubeId": "v8RJKSK7DPU",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "ovsuncu",
+    "title": "Ovsunçu",
+    "year": 2002,
+    "director": "Oqtay Mirqasımov",
+    "genres": [
+      "Dram",
+      "Hərbi",
+      "Macəra"
+    ],
+    "runtimeMinutes": 97,
+    "cast": [
+      {
+        "name": "Bəxtiyar Xanızadə",
+        "role": "Rəsul"
+      },
+      {
+        "name": "Fuad Poladov",
+        "role": "Aslan"
+      },
+      {
+        "name": "Ayan Mirqasımova",
+        "role": "Mədinə"
+      },
+      {
+        "name": "Eldəniz Rəsulov",
+        "role": "Şaban"
+      },
+      {
+        "name": "Yuri Baliyev",
+        "role": "Artyom"
+      },
+      {
+        "name": "Səidə Vəlibəyova",
+        "role": "Sofi"
+      }
+    ],
+    "synopsis": "1920-ci illərdə Azərbaycanda sovet hakimiyyəti qurularkən sakit kənd ovsunçusu Rəsul rus qoşunlarının gəlişi ilə mübarizəyə sürüklənir. O, ailəsinin namusunu qorumaq üçün silaha sarılır.",
+    "overview": "Oqtay Mirqasımovun rejissorluğu ilə Azərbaycanfilm və \"Yeni Film\" şirkətinin birgə çəkdiyi film müstəqillik dövrünün ən ambisiyalı istehsallarından sayılır; ssenarini Natiq Rəsulzadə, Mirqasımov və Rüstəm İbrahimbəyov yazıb, musiqi Elmar Felindir. Film 2003-cü il yanvarın 31-də nümayiş olunub və həmin ilin dekabrında IV \"Qızıl çıraq\" milli mükafatında ən yaxşı bədii film seçilib. 2005-ci ildə Kazanda ilk \"Qızıl Minbər\" festivalında Qran-pri qazanıb, Ayan Mirqasımova da mükafat alıb.",
+    "image": "https://i.ytimg.com/vi/aECy7XIgZcQ/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/aECy7XIgZcQ/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=aECy7XIgZcQ",
+    "youtubeId": "aECy7XIgZcQ",
+    "linkKind": "clip",
+    "channel": "Filmlərdən Fraqmentlər"
+  },
+  {
+    "id": "girov",
+    "title": "Girov",
+    "year": 2005,
+    "director": "Eldar Quliyev",
+    "genres": [
+      "Dram",
+      "Hərbi"
+    ],
+    "runtimeMinutes": 92,
+    "cast": [
+      {
+        "name": "Gülər Nəbiyeva",
+        "role": "Sona (Kərimin arvadı)"
+      },
+      {
+        "name": "Qurban İsmayılov",
+        "role": "Erməni girov"
+      },
+      {
+        "name": "Vidadi Əliyev",
+        "role": "Əli kişi"
+      },
+      {
+        "name": "Mir Sahib Ağazadə",
+        "role": "Xanəndə"
+      },
+      {
+        "name": "Gülşad Baxşıyeva",
+        "role": "Məryəm xanım"
+      }
+    ],
+    "synopsis": "Birinci Qarabağ müharibəsi zamanı sərhəd kəndində Kərim əsir götürülür və onun azad edilməsi üçün kənd erməni girovunu Kərimin arvadı Sonanın himayəsinə verir. Zaman keçdikcə Sona 'düşmən'in də insan olduğunu və eyni taledən əziyyət çəkdiyini anlayır.",
+    "overview": "Eldar Quliyev filmi Natiq Rəsulzadə ilə birgə ssenari əsasında Azərbaycanfilm studiyasında çəkib; operator Rafiq Quliyev, bəstəkar Səyavuş Kərimidir. Film 2006-cı ildə Karlovı-Varı festivalının \"Qərbin Şərqi\" müsabiqə proqramında nümayiş olunub, sonrakı illərdə Qahirə və Polşada da göstərilib. Qarabağ müharibəsi fonunda insanlıq mövzusuna yönəlməsi onu Azərbaycan kinosunda müharibə mövzusuna humanist yanaşmanın diqqətçəkən nümunəsi edir.",
+    "image": "https://i.ytimg.com/vi/p0hsPdzM_zg/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/p0hsPdzM_zg/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=p0hsPdzM_zg",
+    "youtubeId": "p0hsPdzM_zg",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "cavid-omru",
+    "title": "Cavid ömrü",
+    "year": 2007,
+    "director": "Ramiz Həsənoğlu",
+    "genres": [
+      "Dram",
+      "Tarixi",
+      "Bioqrafik"
+    ],
+    "runtimeMinutes": 128,
+    "cast": [
+      {
+        "name": "Rasim Balayev",
+        "role": "Hüseyn Cavid"
+      },
+      {
+        "name": "Dilarə Əliyeva",
+        "role": "Mişkinaz xanım"
+      },
+      {
+        "name": "İman Məcidov",
+        "role": "Cavidin gəncliyi"
+      },
+      {
+        "name": "Vüsal Murtuzəliyev",
+        "role": "Ərtoğrul"
+      },
+      {
+        "name": "Dəniz Təcəddin",
+        "role": "Turan"
+      },
+      {
+        "name": "Məmməd Səfa",
+        "role": "İblis"
+      }
+    ],
+    "synopsis": "Film siyasi repressiya qurbanı olmuş şair və dramaturq Hüseyn Cavidin ağır həyatının son dövrünü, sürgünü və yaradıcılıq əzablarını təsvir edir.",
+    "overview": "Ramiz Həsənoğlunun çəkdiyi bioqrafik film \"Azvideo\" yaradıcılıq şirkəti tərəfindən Mədəniyyət Nazirliyinin dövlət sifarişi ilə istehsal edilib. Ssenari müəllifi Anar, bəstəkar Cavanşir Quliyev, operator İsrafil Ağazadədir. Baş rolda Rasim Balayev Hüseyn Cavidi canlandırır. Film 2007-ci il dekabrın 13-də Bakıda nümayiş olunub, 2008-ci ilin əvvəlində telekanalda göstərilib. Azərbaycan kinosunda repressiya qurbanı olmuş görkəmli ədib obrazına həsr edilmiş az sayda tam metrajlı işlərdən biridir.",
+    "image": "https://i.ytimg.com/vi/ByJyjUv5Fnk/mq2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/ByJyjUv5Fnk/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ByJyjUv5Fnk",
+    "youtubeId": "ByJyjUv5Fnk",
+    "linkKind": "full",
+    "channel": "Yazıçı Anar"
+  },
+  {
+    "id": "nabat",
+    "title": "Nabat",
+    "year": 2014,
+    "director": "Elçin Musaoğlu",
+    "genres": [
+      "Dram",
+      "Hərbi"
+    ],
+    "runtimeMinutes": 105,
+    "cast": [
+      {
+        "name": "Fatimə Motamed Arya",
+        "role": "Nabat"
+      },
+      {
+        "name": "Vidadi Əliyev",
+        "role": "İskəndər"
+      },
+      {
+        "name": "Sabir Məmmədov",
+        "role": "Mayor"
+      },
+      {
+        "name": "Fərhad İsrafilov",
+        "role": "Davud"
+      }
+    ],
+    "synopsis": "Müharibə təhlükəsi altında olan sərhəd kəndində tək qalmış yaşlı qadın Nabat evini tərk etmir. O, hər axşam boş qalmış evlərdə çıraq yandıraraq düşməni kəndin hələ də məskunlaşdığına inandırır.",
+    "overview": "Elçin Musaoğlunun filmi 2014-cü ildə Azərbaycanfilm studiyasında çəkilib və Qarabağ müharibəsi dövrünün fonunda ananın dözümünə və torpaq bağlılığına diqqət yönəldir. Dünya premyerası 2014-cü il sentyabrın 5-də 71-ci Venesiya Beynəlxalq Kino Festivalının Orizzonti bölməsində olub. Film 87-ci Oskar mükafatı üçün Azərbaycanın təqdimatı seçilib, lakin nominasiyaya düşməyib. Nabat ölkə kinosunun Avropanın aparıcı festivallarına çıxan nümunələrindən biridir.",
+    "image": "https://i.ytimg.com/vi/t9NyeiJKTsQ/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/t9NyeiJKTsQ/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=t9NyeiJKTsQ",
+    "youtubeId": "t9NyeiJKTsQ",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "nar-bagi",
+    "title": "Nar bağı",
+    "year": 2017,
+    "director": "İlqar Nəcəf",
+    "genres": [
+      "Dram"
+    ],
+    "runtimeMinutes": 90,
+    "cast": [
+      {
+        "name": "Qurban İsmayılov",
+        "role": "Şamil"
+      },
+      {
+        "name": "İlahə Həsənova",
+        "role": "Sara"
+      },
+      {
+        "name": "Səmimi Fərhad",
+        "role": "Qabil"
+      },
+      {
+        "name": "Həsən Ağayev",
+        "role": "Cəlal"
+      }
+    ],
+    "synopsis": "Kənddə böyük nar bağı olan yaşlı kişinin oğlu illər sonra evə qayıdır və ailəni özü ilə aparmaq istəyir. Bu qayıdış ailənin həyat tərzini və torpağa bağlılığı sarsıdır. Film Çexovun \"Albalı bağı\" pyesindən ilhamlanıb.",
+    "overview": "Film Azərbaycanfilm studiyasının və rejissor İlqar Nəcəfin Buta Film şirkətinin istehsalıdır; prodüserləri Müşfüq Hətəmov və İlqar Nəcəfdir. Ssenarini Asif Rüstəmov, İlqar Nəcəf və Roelof Yan yazıb, musiqisi Firudin Allahverdiyə məxsusdur. Premyerası 2017-ci il iyulun 1-də Karlovı-Varı festivalının «East of the West» müsabiqəsində olub. Film 90-cı Oskar mükafatı üçün Azərbaycanın təqdimatı seçilib; Çexov motivini Azərbaycan kəndi mühitinə uyğunlaşdırması ilə diqqət çəkir.",
+    "image": "https://i.ytimg.com/vi/Q7Xl-LGP3LU/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/Q7Xl-LGP3LU/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q7Xl-LGP3LU",
+    "youtubeId": "Q7Xl-LGP3LU",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "daxildeki-ada",
+    "title": "Daxildəki ada",
+    "year": 2020,
+    "director": "Rüfət Həsənov",
+    "genres": [
+      "Dram",
+      "Komediya"
+    ],
+    "runtimeMinutes": 79,
+    "cast": [
+      {
+        "name": "Orxan Ata",
+        "role": "Seymur Tahirbəyov"
+      },
+      {
+        "name": "Vidadi Həsənov",
+        "role": "Xanlar Tahirbəyov"
+      },
+      {
+        "name": "Rafiq Əzimov",
+        "role": "Baba"
+      },
+      {
+        "name": "Elşən Cəbrayılov",
+        "role": "İdman naziri"
+      },
+      {
+        "name": "Qurban İsmayılov",
+        "role": ""
+      }
+    ],
+    "synopsis": "Dünya çempionatı matçına az qalmış şahmat qrossmeysteri Seymur təzyiqdən qaçıb Kür çayındakı vəhşi atlar yaşayan tənha adaya gedir. Orada yaşlı bir adamla tanış olur və iki tənha insan tədricən yaxınlaşır.",
+    "overview": "Ru Həsənov filmin həm ssenaristi və rejissoru, həm də prodüserlərindən biridir; layihə Azərbaycan və Fransanın birgə istehsalıdır (Coyote Cinema və Arizona Productions). Dünya premyerası 2020-ci il avqustun 17-də onlayn keçirilən Sarayevo Film Festivalında olub və Həsənov orada «Heart of Sarajevo» mükafatını ən yaxşı rejissor nominasiyasında qazanıb. Film 2021-ci ildə Vitré şəhərindəki Nouvelles Images Persanes festivalında beynəlxalq münsiflər heyətinin mükafatını alıb və 94-cü Oskar üçün Azərbaycanın təqdimatı olub.",
+    "image": "https://i.ytimg.com/vi/FHkZgB0G64g/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/FHkZgB0G64g/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FHkZgB0G64g",
+    "youtubeId": "FHkZgB0G64g",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "qirmizi-bag",
+    "title": "Qırmızı bağ",
+    "year": 2016,
+    "director": "Mirbala Səlimli",
+    "genres": [
+      "Dram"
+    ],
+    "runtimeMinutes": 88,
+    "cast": [
+      {
+        "name": "Maqsud Məmmədov",
+        "role": "Abbas"
+      },
+      {
+        "name": "Gülzar Qurbanova",
+        "role": "Vəfa"
+      },
+      {
+        "name": "Taleh Bədiyev",
+        "role": "Orxan"
+      },
+      {
+        "name": "Salam İsmayıl",
+        "role": "Molla"
+      },
+      {
+        "name": "Xanlar Həşimzadə",
+        "role": "Məktəb direktoru"
+      }
+    ],
+    "synopsis": "Əyalət şəhərində məktəb müəllimi Abbas arvadından nəslini davam etdirəcək oğul övladı istəyir, lakin Vəfa bunu yerinə yetirə bilmir. Onların həyatına kimsəsiz uşaq Orxanın daxil olması hadisələri tamamilə dəyişir.",
+    "overview": "Mirbala Səlimlinin ilk bədii filmidir; ssenarini də özü yazıb. Layihə Azərbaycanfilm studiyası ilə Rusiyanın WeiT Media şirkətinin birgə istehsalıdır, prodüserlər Müşfüq Hətəmov və Timur Vaynşteyndir, musiqi Salman Qəmbərovundur. Film 2017-ci ildə 15-ci Dəkkə Beynəlxalq Film Festivalının «Mənəvi filmlər» müsabiqəsində ən yaxşı bədii film seçilib. Qırmızı bağ Azərbaycan və Rusiya kino qurumlarının son illərdəki əməkdaşlığının nümunələrindən biridir.",
+    "image": "https://i.ytimg.com/vi/u94OuzAQY0I/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/u94OuzAQY0I/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=u94OuzAQY0I",
+    "youtubeId": "u94OuzAQY0I",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "mermer-soyugu",
+    "title": "Mərmər soyuğu",
+    "year": 2022,
+    "director": "Asif Rüstəmov",
+    "genres": [
+      "Dram",
+      "Komediya"
+    ],
+    "runtimeMinutes": 88,
+    "cast": [
+      {
+        "name": "Qurban İsmayılov",
+        "role": "Əkbər"
+      },
+      {
+        "name": "Elşən Əsgərov",
+        "role": ""
+      },
+      {
+        "name": "Natəvan Abbaslı",
+        "role": ""
+      }
+    ],
+    "synopsis": "Tək gözlü rəssam, anasının xatirəsinə mərmər heykəl yonmuş heykəltəraş və bədbəxt evliliyi olan qadın təhlükəli məhəbbət üçbucağına düşür. Heykəltəraşın həbsdən azad olan atası oğlunu \"kişi etmək\" istəyəndə bu münasibətlər daha da gərginləşir.",
+    "overview": "Film Azərbaycanfilm, BMC, ITV və Fransanın Arizona Films şirkətlərinin birgə istehsalıdır; ssenarini Asif Rüstəmov və Roelof Yan Minneboo yazıb. Dünya premyerası 2022-ci ildə Tallinn «Qara gecələr» (PÖFF) festivalının rəsmi müsabiqəsində olub, baş rolun ifaçısı Qurban İsmayılov isə orada ən yaxşı aktyor mükafatına layiq görülüb. Rüstəmovun debüt bədii filmi «Down the River» (2014) isə Karlovı-Varı festivalında premyera olunmuşdu. Film Azərbaycan-Fransa kino əməkdaşlığının nümunəsidir.",
+    "image": "https://i.ytimg.com/vi/5gZiprHlv_M/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/5gZiprHlv_M/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5gZiprHlv_M",
+    "youtubeId": "5gZiprHlv_M",
+    "linkKind": "trailer",
+    "channel": "Klassiki"
+  },
+  {
+    "id": "beyin-ogurlanmasi",
+    "title": "Bəyin oğurlanması",
+    "year": 1985,
+    "director": "Ceyhun Mirzəyev, Vaqif Mustafayev",
+    "genres": [
+      "Komediya",
+      "Melodram",
+      "Dram"
+    ],
+    "runtimeMinutes": 69,
+    "cast": [
+      {
+        "name": "Yaşar Nuri",
+        "role": "İsrafil"
+      },
+      {
+        "name": "Həsənağa Turabov",
+        "role": "Əsəd"
+      },
+      {
+        "name": "Səyavuş Aslan",
+        "role": "Mustafa"
+      },
+      {
+        "name": "Hacı İsmayılov",
+        "role": "Tağı"
+      },
+      {
+        "name": "Nəsibə Zeynalova",
+        "role": "Nəsibə"
+      },
+      {
+        "name": "Natəvan Məmmədova",
+        "role": "Yasəmən"
+      },
+      {
+        "name": "Tamara Şakirova",
+        "role": "Nigar"
+      }
+    ],
+    "synopsis": "Kəndə toy səhnəsi çəkməyə gələn kino qrupunun rejissoru ssenarinin həyatdan uzaq olduğunu görüb uydurma səhnə əvəzinə kənddəki real toyu lentə almağa başlayır. Real toyun ətrafında isə gülməli əhvalatlar baş verir.",
+    "overview": "Azərbaycanfilm studiyasında çəkilən bu musiqili komediyanın ssenari müəllifi Mövlud Süleymanlı, bəstəkarı Emin Sabitoğlu, operatorları Ələsgər Ələkbərov və Rəşid Nağıyevdir. Filmdə kinonun uydurma süjeti ilə kəndin real həyatı qarşılaşdırılır, kənd toyu adət-ənənələri yumorla təsvir olunur. Əsər sovet dövrü Azərbaycan komediyasında kino çəkilişinin özünü mövzuya çevirən nümunələrdən biridir. Rejissorlar Ceyhun Mirzəyev və Vaqif Mustafayevdir.",
+    "image": "https://i.ytimg.com/vi/2auKCopLedM/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/2auKCopLedM/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2auKCopLedM",
+    "youtubeId": "2auKCopLedM",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "yol-ehvalati",
+    "title": "Yol əhvalatı",
+    "year": 1980,
+    "director": "Teymur Bəkirzadə",
+    "genres": [
+      "Komediya"
+    ],
+    "runtimeMinutes": 72,
+    "cast": [
+      {
+        "name": "Səyavuş Aslan",
+        "role": "Qurban"
+      },
+      {
+        "name": "Vaxtanq Pançulidze",
+        "role": "Mustafa"
+      },
+      {
+        "name": "Həmidə Ömərova",
+        "role": "Zümrüd"
+      },
+      {
+        "name": "Kamil Məhərrəmov",
+        "role": "Paşa"
+      },
+      {
+        "name": "Yaşar Nuri",
+        "role": "Makintoş"
+      }
+    ],
+    "synopsis": "Şən və xeyirxah sürücü Mustafa gözəl Zümrüdlə evlənmək istəyir, lakin qızın işbaz atası buna razı deyil. Mustafa çətin vəziyyətlərə düşsə də, inadından dönmür və sonda sevgisinə qovuşur.",
+    "overview": "Azərbaycanfilm studiyasının rəngli komediya-romantik filmidir; ssenarisi Asim Cəlilova, musiqisi Polad Bülbüloğluna məxsusdur, operatorları Şərif Şərifov və Ələsgər Ələkbərovdur. Azərbaycan Vikipediyasına görə bu, Teymur Bəkirzadənin müstəqil rejissor kimi ilk uzunmetrajlı filmidir. Film 1980-ci ildə çəkilib, ilk nümayişi 1981-ci il fevralın 20-də olub. Film Polad Bülbüloğlunun kino üçün bəstələdiyi işlər sırasında yer alır.",
+    "image": "https://i.ytimg.com/vi/QJWHSuzBa6Q/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/QJWHSuzBa6Q/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QJWHSuzBa6Q",
+    "youtubeId": "QJWHSuzBa6Q",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "ehmed-haradadir",
+    "title": "Əhməd haradadır?",
+    "year": 1963,
+    "director": "Adil İsgəndərov",
+    "genres": [
+      "Komediya",
+      "Musiqili"
+    ],
+    "runtimeMinutes": 87,
+    "cast": [
+      {
+        "name": "Səyavuş Şəfiyev",
+        "role": "Əhməd"
+      },
+      {
+        "name": "Töhfə Əzimova",
+        "role": "Leyla"
+      },
+      {
+        "name": "Məmmədrza Şeyxzamanov",
+        "role": "Şirin kişi"
+      },
+      {
+        "name": "Nəcibə Məlikova",
+        "role": "Nərgiz"
+      },
+      {
+        "name": "Nonna Paçuaşvili",
+        "role": "Ceyran"
+      },
+      {
+        "name": "Elxan Qasımov",
+        "role": "Sürücü Əhməd"
+      },
+      {
+        "name": "Mustafa Mərdanov",
+        "role": "Məmməd kişi"
+      }
+    ],
+    "synopsis": "Əhməd şəhərdən kəndə ailəsinin yanına gəlir, lakin valideynləri onu sevmədiyi qızla evləndirmək istəyir. Bunu bilən Əhməd şəhərə qaçır və macəralar şəhərdə davam edir.",
+    "overview": "Azərbaycanfilm studiyasının musiqili komediyasıdır; ssenarisi Sabit Rəhmana, musiqisi Rauf Hacıyevə məxsusdur, operatoru Yuli Foqelmandır. Film 1963-cü ildə çəkilib, ilk nümayişi isə 1964-cü il noyabrın 4-də olub. Azərbaycan Vikipediyasına görə, aktyor Adil İsgəndərovun rejissor kimi yeganə bədii filmidir. Bu səbəblə əsər 1960-cı illərin Azərbaycan musiqili komediyaları sırasında həm də bir aktyorun rejissorluq təcrübəsi kimi diqqəti çəkir.",
+    "image": "https://i.ytimg.com/vi/-Y1JmAZeUMA/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/-Y1JmAZeUMA/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-Y1JmAZeUMA",
+    "youtubeId": "-Y1JmAZeUMA",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "yuxu",
+    "title": "Yuxu",
+    "year": 2001,
+    "director": "Fikrət Əliyev",
+    "genres": [
+      "Komediya",
+      "Melodram",
+      "Dram"
+    ],
+    "runtimeMinutes": 79,
+    "cast": [
+      {
+        "name": "Nəsibə Zeynalova",
+        "role": ""
+      },
+      {
+        "name": "Səyavuş Aslan",
+        "role": ""
+      },
+      {
+        "name": "Yaşar Nuri",
+        "role": ""
+      },
+      {
+        "name": "Zərnigar Ağakişiyeva",
+        "role": ""
+      },
+      {
+        "name": "Qorxmaz Əlili",
+        "role": ""
+      }
+    ],
+    "synopsis": "İki gəncin məhəbbətindən bəhs edən film Abşeron qəsəbələrindən birində, baş qəhrəmanın yuxusu ətrafında cərəyan edir. Əliabbas sevgilisinə qovuşmaq üçün dedi-qodulardan və hədələrdən çəkinmir.",
+    "overview": "Filmin rejissoru Fikrət Əliyev eyni zamanda prodüser və Qasım Səfəroğlu ilə birlikdə ssenari müəllifidir; bəstəkarı Azər Dadaşovdur. İstehsalçıları «Vahid» kinostudiyası və Azərbaycanfilmdir. Azərbaycan Vikipediyasına görə çəkilişlər 1993-cü ildə başlayıb, 1994-cü ildə bitib, film isə 2001-ci ildə tam hazır olub. Operator Valeri Kərimovun son kino işi sayılır. Yuxu müstəqilliyin ilk illərində başlanan və uzun fasilədən sonra tamamlanan bədii filmlərdən biridir.",
+    "image": "https://i.ytimg.com/vi/-QNxUhrhqk4/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/-QNxUhrhqk4/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-QNxUhrhqk4",
+    "youtubeId": "-QNxUhrhqk4",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "serikli-corek",
+    "title": "Şərikli çörək",
+    "year": 1969,
+    "director": "Şamil Mahmudbəyov",
+    "genres": [
+      "Hərbi",
+      "Dram"
+    ],
+    "runtimeMinutes": 68,
+    "cast": [
+      {
+        "name": "Kamran Rəcəbli",
+        "role": "Vaqif"
+      },
+      {
+        "name": "Tuna Namazova",
+        "role": "Leyla"
+      },
+      {
+        "name": "Firuz Əliyev",
+        "role": "Tofiq"
+      },
+      {
+        "name": "Xosrov Mamayev",
+        "role": "Əşrəf"
+      },
+      {
+        "name": "Mirzəağa Mirzəyev",
+        "role": "Kenka"
+      },
+      {
+        "name": "Çingiz Quliyev",
+        "role": "Mişka"
+      },
+      {
+        "name": "Sədayə Mustafayeva",
+        "role": "Şamama"
+      },
+      {
+        "name": "Yelena İnyakina",
+        "role": "Lina"
+      }
+    ],
+    "synopsis": "İkinci dünya müharibəsinin son günlərində və müharibədən sonrakı ilk aylarda uşaqların ağır həyatı onların gözü ilə təsvir olunur. Çörəyi bölüşmək və dostluq çətinliklər qarşısında insani dəyərlərin simvoluna çevrilir.",
+    "overview": "Şamil Mahmudbəyovun rejissorluğu ilə Azərbaycanfilm studiyasında çəkilmiş sovet dövrü dramıdır. Ssenarini Alla Axundova yazıb, musiqisi Vasif Adıgözəlova məxsusdur. Film müharibə mövzusunu döyüş səhnələri ilə deyil, arxa cəbhədə uşaqların gündəlik həyatı və çörək qayğısı üzərindən göstərir. Əsər Azərbaycan kinosunun müharibə mövzulu filmləri sırasında uşaq baxışına əsaslanan nümunələrdən biridir.",
+    "image": "https://i.ytimg.com/vi/88uxFYb1354/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/88uxFYb1354/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=88uxFYb1354",
+    "youtubeId": "88uxFYb1354",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  },
+  {
+    "id": "nizami",
+    "title": "Nizami",
+    "year": 1982,
+    "director": "Eldar Quliyev",
+    "genres": [
+      "Tarixi",
+      "Bioqrafik",
+      "Dram"
+    ],
+    "runtimeMinutes": 126,
+    "cast": [
+      {
+        "name": "Müslüm Maqomayev",
+        "role": "Nizami"
+      },
+      {
+        "name": "Həmidə Ömərova",
+        "role": "Afaq"
+      },
+      {
+        "name": "Həsənağa Turabov",
+        "role": "Müzəffəri"
+      },
+      {
+        "name": "Ələddin Abbasov",
+        "role": "Xaqani"
+      },
+      {
+        "name": "Hacımurad Yegizarov",
+        "role": "Qızıl Arslan"
+      },
+      {
+        "name": "Muxtar Manıyev",
+        "role": "Qazi"
+      }
+    ],
+    "synopsis": "Film XII əsr Azərbaycan şairi və mütəfəkkiri Nizami Gəncəvinin həyatını və dövrünün ictimai-siyasi mühitini təsvir edir. Şairin yüksək əxlaqi idealları ilə reallıq arasındakı ziddiyyətə baxmayaraq insanlara və ədalətə inamı qorunur.",
+    "overview": "Film Azərbaycanfilm və Mosfilm studiyalarının birgə istehsalıdır. Ssenarini İsa Hüseynov (Muğanna) və rejissor Eldar Quliyev yazıb, musiqisi Qara Qarayevə, operator işi Arif Nərimanbəyova məxsusdur. Baş rolda Müslüm Maqomayev çəkilib. Eldar Quliyev bu filmə görə 1983-cü ildə Leninqradda keçirilən Ümumittifaq Film Festivalında mükafat alıb, 1984-cü ildə Daşkənd festivalında isə film diplomlarla təltif olunub. Film Azərbaycan və Moskva studiyalarının əməkdaşlığı ilə Nizami Gəncəvinin həyatına həsr olunmuş tarixi-bioqrafik kino əsəri kimi diqqət çəkir.",
+    "image": "https://i.ytimg.com/vi/LZ4p9zjfaxg/maxres2.jpg",
+    "imageSmall": "https://i.ytimg.com/vi/LZ4p9zjfaxg/mq2.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LZ4p9zjfaxg",
+    "youtubeId": "LZ4p9zjfaxg",
+    "linkKind": "full",
+    "channel": "Azərbaycanfilm"
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "id": "nabat",
+    "title": "Nabat",
+    "year": 2014,
+    "director": "Elçin Musaoğlu",
+    "genres": ["Dram", "Hərbi dram"],
+    "runtimeMinutes": 105,
+    "cast": [
+      {"name": "Fatimə Motamed Arya", "role": "Nabat"},
+      {"name": "Vidadi Əliyev", "role": "İskəndər"},
+      {"name": "Sabir Məmmədov", "role": "Mayor"},
+      {"name": "Fərhad İsrafilov", "role": "Davud"}
+    ],
+    "synopsis": "Müharibə təhlükəsi altında olan sərhəd kəndində tək qalmış yaşlı qadın Nabat evini tərk etmir. O, hər axşam boş qalmış evlərdə çıraq yandıraraq düşməni kəndin hələ də məskunlaşdığına inandırır.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=t9NyeiJKTsQ",
+    "youtubeId": "t9NyeiJKTsQ",
+    "youtubeTitle": "Nabat (2014)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=t9NyeiJKTsQ",
+      "https://en.wikipedia.org/wiki/Nabat_(film)"
+    ],
+    "notes": "Rəsmi Azərbaycanfilm kanalında tam film (video müddəti ~104 dəq 38 san). Venesiya festivalında premyera (2014). Rollar ingilis Vikipediyasından."
+  },
+  {
+    "id": "nar-bagi",
+    "title": "Nar bağı",
+    "year": 2017,
+    "director": "İlqar Nəcəf",
+    "genres": ["Dram"],
+    "runtimeMinutes": 90,
+    "cast": [
+      {"name": "Qurban İsmayılov", "role": "Şamil"},
+      {"name": "İlahə Həsənova", "role": "Sara"},
+      {"name": "Səmimi Fərhad", "role": "Qabil"},
+      {"name": "Həsən Ağayev", "role": "Cəlal"}
+    ],
+    "synopsis": "Kənddə böyük nar bağı olan yaşlı kişinin oğlu illər sonra evə qayıdır və ailəni özü ilə aparmaq istəyir. Bu qayıdış ailənin həyat tərzini və torpağa bağlılığı sarsıdır. Film Çexovun \"Albalı bağı\" pyesindən ilhamlanıb.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q7Xl-LGP3LU",
+    "youtubeId": "Q7Xl-LGP3LU",
+    "youtubeTitle": "Nar bağı (2017)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=Q7Xl-LGP3LU",
+      "https://en.wikipedia.org/wiki/Pomegranate_Orchard"
+    ],
+    "notes": "Rəsmi kanalda tam film (~89 dəq 17 san). Başqa rəsmi yükləmə: ck3ZhneDbyI (rusca başlıqlı). İngiliscə adı: Pomegranate Orchard."
+  },
+  {
+    "id": "daxildeki-ada",
+    "title": "Daxildəki ada",
+    "year": 2020,
+    "director": "Rüfət Həsənov",
+    "genres": ["Dram", "Komediya-dram"],
+    "runtimeMinutes": 79,
+    "cast": [
+      {"name": "Orxan Ata", "role": "Seymur Tahirbəyov"},
+      {"name": "Vidadi Həsənov", "role": "Xanlar Tahirbəyov"},
+      {"name": "Rafiq Əzimov", "role": "Baba"},
+      {"name": "Elşən Cəbrayılov", "role": "İdman naziri"},
+      {"name": "Qurban İsmayılov", "role": null}
+    ],
+    "synopsis": "Dünya çempionatı matçına az qalmış şahmat qrossmeysteri Seymur təzyiqdən qaçıb Kür çayındakı vəhşi atlar yaşayan tənha adaya gedir. Orada yaşlı bir adamla tanış olur və iki tənha insan tədricən yaxınlaşır.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FHkZgB0G64g",
+    "youtubeId": "FHkZgB0G64g",
+    "youtubeTitle": "Daxildəki ada | Внутренний Остров (2020)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=FHkZgB0G64g",
+      "https://en.wikipedia.org/wiki/The_Island_Within"
+    ],
+    "notes": "Rəsmi kanalda tam film (video ~76 dəq 34 san; Vikipediyada 79 dəq). Başlıqda rusca ad var. İngiliscə adı: The Island Within. Rəsmi treyler: u3QIj28aLPE (Azərbaycanfilm)."
+  },
+  {
+    "id": "qirmizi-bag",
+    "title": "Qırmızı bağ",
+    "year": 2016,
+    "director": "Mirbala Səlimli",
+    "genres": ["Dram"],
+    "runtimeMinutes": 88,
+    "cast": [
+      {"name": "Maqsud Məmmədov", "role": "Abbas"},
+      {"name": "Gülzar Qurbanova", "role": "Vəfa"},
+      {"name": "Taleh Bədiyev", "role": "Orxan"},
+      {"name": "Salam İsmayıl", "role": "Molla"},
+      {"name": "Xanlar Həşimzadə", "role": "Məktəb direktoru"}
+    ],
+    "synopsis": "Əyalət şəhərində məktəb müəllimi Abbas arvadından nəslini davam etdirəcək oğul övladı istəyir, lakin Vəfa bunu yerinə yetirə bilmir. Onların həyatına kimsəsiz uşaq Orxanın daxil olması hadisələri tamamilə dəyişir.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=u94OuzAQY0I",
+    "youtubeId": "u94OuzAQY0I",
+    "youtubeTitle": "Qırmızı bağ (2016)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=u94OuzAQY0I",
+      "https://www.youtube.com/watch?v=372cRym5zHw"
+    ],
+    "notes": "Rəsmi kanalda tam film (88 dəq). İkinci rəsmi yükləmə: 372cRym5zHw (ingiliscə başlıqlı \"Red garden\"). Azərbaycan-Rusiya (Weit Media) birgə istehsalı; ilk baxış 12.04.2016."
+  },
+  {
+    "id": "mermer-soyugu",
+    "title": "Mərmər soyuğu",
+    "year": 2022,
+    "director": "Asif Rüstəmov",
+    "genres": ["Psixoloji dram", "Qara komediya"],
+    "runtimeMinutes": 88,
+    "cast": [
+      {"name": "Qurban İsmayılov", "role": "Əkbər"},
+      {"name": "Elşən Əsgərov", "role": null},
+      {"name": "Natəvan Abbaslı", "role": null}
+    ],
+    "synopsis": "Tək gözlü rəssam, anasının xatirəsinə mərmər heykəl yonmuş heykəltəraş və bədbəxt evliliyi olan qadın təhlükəli məhəbbət üçbucağına düşür. Heykəltəraşın həbsdən azad olan atası oğlunu \"kişi etmək\" istəyəndə bu münasibətlər daha da gərginləşir.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5gZiprHlv_M",
+    "youtubeId": "5gZiprHlv_M",
+    "youtubeTitle": "Cold as Marble (MƏRMƏR SOYUĞU) | 4K Trailer | Klassiki",
+    "channel": "Klassiki",
+    "kind": "trailer",
+    "oembedStatus": 200,
+    "sources": [
+      "https://poff.ee/en/film/cold-as-marble",
+      "https://www.youtube.com/watch?v=5gZiprHlv_M",
+      "https://www.youtube.com/watch?v=VvpaU-ngIls"
+    ],
+    "notes": "Film mövcuddur (PÖFF Tallinn Black Nights 2022-də premyera, Qurban İsmayılov ən yaxşı aktyor). YouTube-da TAM film tapılmadı; yalnız treyler (41 san, Klassiki), fraqment (Rav_lN830u4, FilmFestival Cottbus, 104 san) və Azərbaycanfilm kanalında kadrarxası müsahibələr (məs. VvpaU-ngIls) var. Rollar yalnız Qurban İsmayılov üçün (Əkbər) məlumdur, digərləri təsdiqlənməyib. Müddət ~88 dəq labocine.com mənbəyindən."
+  },
+  {
+    "id": "beyin-ogurlanmasi",
+    "title": "Bəyin oğurlanması",
+    "year": 1985,
+    "director": "Ceyhun Mirzəyev, Vaqif Mustafayev",
+    "genres": ["Komediya", "Melodram"],
+    "runtimeMinutes": 69,
+    "cast": [
+      {"name": "Yaşar Nuri", "role": "İsrafil"},
+      {"name": "Həsənağa Turabov", "role": "Əsəd"},
+      {"name": "Səyavuş Aslan", "role": "Mustafa"},
+      {"name": "Hacı İsmayılov", "role": "Tağı"},
+      {"name": "Nəsibə Zeynalova", "role": "Nəsibə"},
+      {"name": "Natəvan Məmmədova", "role": "Yasəmən"},
+      {"name": "Tamara Şakirova", "role": "Nigar"}
+    ],
+    "synopsis": "Kəndə toy səhnəsi çəkməyə gələn kino qrupunun rejissoru ssenarinin həyatdan uzaq olduğunu görüb uydurma səhnə əvəzinə kənddəki real toyu lentə almağa başlayır. Real toyun ətrafında isə gülməli əhvalatlar baş verir.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2auKCopLedM",
+    "youtubeId": "2auKCopLedM",
+    "youtubeTitle": "Bəyin oğurlanması (1985)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=2auKCopLedM"
+    ],
+    "notes": "Rəsmi kanalda tam film (~69 dəq 39 san). Rejissor və aktyor siyahısı rəsmi kanalın təsvirindən götürülüb (bəzi saytlarda Eldar Quliyev/Alisattar Atakişiyev kimi səhv göstərilir). Ssenari: Mövlud Süleymanlı; ilk baxış 08.10.1985."
+  },
+  {
+    "id": "yol-ehvalati",
+    "title": "Yol əhvalatı",
+    "year": 1980,
+    "director": "Teymur Bəkirzadə",
+    "genres": ["Komediya"],
+    "runtimeMinutes": 72,
+    "cast": [
+      {"name": "Səyavuş Aslan", "role": "Qurban"},
+      {"name": "Vaxtanq Pançulidze", "role": "Mustafa"},
+      {"name": "Həmidə Ömərova", "role": "Zümrüd"},
+      {"name": "Kamil Məhərrəmov", "role": "Paşa"},
+      {"name": "Yaşar Nuri", "role": "Makintoş"}
+    ],
+    "synopsis": "Şən və xeyirxah sürücü Mustafa gözəl Zümrüdlə evlənmək istəyir, lakin qızın işbaz atası buna razı deyil. Mustafa çətin vəziyyətlərə düşsə də, inadından dönmür və sonda sevgisinə qovuşur.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QJWHSuzBa6Q",
+    "youtubeId": "QJWHSuzBa6Q",
+    "youtubeTitle": "Yol əhvalatı (1980)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=QJWHSuzBa6Q",
+      "https://en.wikipedia.org/wiki/List_of_Azerbaijani_films_of_the_1980s"
+    ],
+    "notes": "Rəsmi kanalda tam film (~71 dəq 43 san). İstehsal ili 1980, ilk baxış 20 fevral 1981. Ssenari: Asim Cəlilov."
+  },
+  {
+    "id": "ehmed-haradadir",
+    "title": "Əhməd haradadır?",
+    "year": 1963,
+    "director": "Adil İsgəndərov",
+    "genres": ["Musiqili komediya"],
+    "runtimeMinutes": 87,
+    "cast": [
+      {"name": "Səyavuş Şəfiyev", "role": "Əhməd"},
+      {"name": "Töhfə Əzimova", "role": "Leyla"},
+      {"name": "Məmmədrza Şeyxzamanov", "role": "Şirin kişi"},
+      {"name": "Nəcibə Məlikova", "role": "Nərgiz"},
+      {"name": "Nonna Paçuaşvili", "role": "Ceyran"},
+      {"name": "Elxan Qasımov", "role": "Sürücü Əhməd"},
+      {"name": "Mustafa Mərdanov", "role": "Məmməd kişi"}
+    ],
+    "synopsis": "Əhməd şəhərdən kəndə ailəsinin yanına gəlir, lakin valideynləri onu sevmədiyi qızla evləndirmək istəyir. Bunu bilən Əhməd şəhərə qaçır və macəralar şəhərdə davam edir.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-Y1JmAZeUMA",
+    "youtubeId": "-Y1JmAZeUMA",
+    "youtubeTitle": "Əhməd haradadır? (1963)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=-Y1JmAZeUMA",
+      "https://thetvdb.com/movies/ahmad-haradadir/people"
+    ],
+    "notes": "Rəsmi kanalda tam film (~87 dəq 5 san). Film 1963-də çəkilib, ilk baxış 04.11.1964. Ssenari: Sabit Rəhman, musiqi: Rauf Hacıyev."
+  },
+  {
+    "id": "yuxu",
+    "title": "Yuxu",
+    "year": 2001,
+    "director": "Fikrət Əliyev",
+    "genres": ["Romantik komediya", "Dram"],
+    "runtimeMinutes": 79,
+    "cast": [
+      {"name": "Nəsibə Zeynalova", "role": null},
+      {"name": "Səyavuş Aslan", "role": null},
+      {"name": "Yaşar Nuri", "role": null},
+      {"name": "Zərnigar Ağakişiyeva", "role": null},
+      {"name": "Qorxmaz Əlili", "role": null}
+    ],
+    "synopsis": "İki gəncin məhəbbətindən bəhs edən film Abşeron qəsəbələrindən birində, baş qəhrəmanın yuxusu ətrafında cərəyan edir. Əliabbas sevgilisinə qovuşmaq üçün dedi-qodulardan və hədələrdən çəkinmir.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-QNxUhrhqk4",
+    "youtubeId": "-QNxUhrhqk4",
+    "youtubeTitle": "Yuxu (2001)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=-QNxUhrhqk4",
+      "https://telescopefilm.com/homepage/film/311840-the-dream"
+    ],
+    "notes": "Rəsmi kanalda tam film (~79 dəq 25 san). Rollar (personaj adları) mənbədə göstərilməyib. Ssenari: Qasım Səfəroğlu, Fikrət Əliyev; bəstəkar: Azər Dadaşov. Bəzi yükləmələrə görə çəkilişlər 1993-94-də aparılıb, 2001 ilk baxış ilidir (təsdiqlənməyib). \"Yuxu\" adlı rok qrupu ilə qarışdırmayın."
+  },
+  {
+    "id": "serikli-corek",
+    "title": "Şərikli çörək",
+    "year": 1969,
+    "director": "Şamil Mahmudbəyov",
+    "genres": ["Müharibə", "Dram"],
+    "runtimeMinutes": 68,
+    "cast": [
+      {"name": "Kamran Rəcəbli", "role": "Vaqif"},
+      {"name": "Tuna Namazova", "role": "Leyla"},
+      {"name": "Firuz Əliyev", "role": "Tofiq"},
+      {"name": "Xosrov Mamayev", "role": "Əşrəf"},
+      {"name": "Mirzəağa Mirzəyev", "role": "Kenka"},
+      {"name": "Çingiz Quliyev", "role": "Mişka"},
+      {"name": "Sədayə Mustafayeva", "role": "Şamama"},
+      {"name": "Yelena İnyakina", "role": "Lina"}
+    ],
+    "synopsis": "İkinci dünya müharibəsinin son günlərində və müharibədən sonrakı ilk aylarda uşaqların ağır həyatı onların gözü ilə təsvir olunur. Çörəyi bölüşmək və dostluq çətinliklər qarşısında insani dəyərlərin simvoluna çevrilir.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=88uxFYb1354",
+    "youtubeId": "88uxFYb1354",
+    "youtubeTitle": "Şərikli çörək | Shared bread (1969)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=88uxFYb1354",
+      "https://en.wikipedia.org/wiki/Shared_bread"
+    ],
+    "notes": "Rəsmi kanalda tam film (video ~66 dəq; Vikipediyada 68 dəq). Ssenari: Alla Axundova, bəstəkar: Vasif Adıgözəlov; ilk baxış 30.10.1969."
+  },
+  {
+    "id": "nizami",
+    "title": "Nizami",
+    "year": 1982,
+    "director": "Eldar Quliyev",
+    "genres": ["Tarixi", "Bioqrafik dram"],
+    "runtimeMinutes": 126,
+    "cast": [
+      {"name": "Müslüm Maqomayev", "role": "Nizami"},
+      {"name": "Həmidə Ömərova", "role": "Afaq"},
+      {"name": "Həsənağa Turabov", "role": "Müzəffəri"},
+      {"name": "Ələddin Abbasov", "role": "Xaqani"},
+      {"name": "Hacımurad Yegizarov", "role": "Qızıl Arslan"},
+      {"name": "Muxtar Manıyev", "role": "Qazi"}
+    ],
+    "synopsis": "Film XII əsr Azərbaycan şairi və mütəfəkkiri Nizami Gəncəvinin həyatını və dövrünün ictimai-siyasi mühitini təsvir edir. Şairin yüksək əxlaqi idealları ilə reallıq arasındakı ziddiyyətə baxmayaraq insanlara və ədalətə inamı qorunur.",
+    "status": "found",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LZ4p9zjfaxg",
+    "youtubeId": "LZ4p9zjfaxg",
+    "youtubeTitle": "Nizami (1982)",
+    "channel": "Azərbaycanfilm",
+    "kind": "full",
+    "oembedStatus": 200,
+    "sources": [
+      "https://www.youtube.com/watch?v=LZ4p9zjfaxg",
+      "https://az.wikipedia.org/wiki/Nizami_(film,_1982)",
+      "https://ru.wikipedia.org/wiki/Низами_(фильм)"
+    ],
+    "notes": "Rəsmi kanalda tam film (2 saat 5 dəq 57 san ~ 126 dəq; Vikipediyalarda 125,5-135 dəq). Azərbaycanfilm və Mosfilm istehsalı. Rollar rus və Azərbaycan Vikipediyalarından."
+  }
+]
