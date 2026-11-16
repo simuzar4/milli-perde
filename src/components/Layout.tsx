@@ -1,5 +1,6 @@
 import { useEffect, useId, useState, type FormEvent } from 'react'
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'
+import { Intro } from './Intro'
 import { Clapperboard, Home, Megaphone, Search, UserRound, X } from 'lucide-react'
 
 const nav = [
@@ -14,9 +15,14 @@ function Emblem() {
   return <img src="/logo.svg" alt="" width={44} height={44} className="h-10 w-10 shrink-0 md:h-11 md:w-11" />
 }
 
-function Logo() {
+function Logo({ header = false }: { header?: boolean }) {
   return (
-    <Link to="/" className="flex min-h-11 items-center gap-space-sm" aria-label="Milli Pərdə, ana səhifə">
+    <Link
+      to="/"
+      data-site-logo={header ? '' : undefined}
+      className="flex min-h-11 items-center gap-space-sm"
+      aria-label="Milli Pərdə, ana səhifə"
+    >
       <Emblem />
       <span className="font-display text-headline-lg uppercase tracking-wider text-on-surface">
         Milli <span className="text-primary-container">Pərdə</span>
@@ -74,7 +80,7 @@ function Header() {
       }`}
     >
       <div className="flex h-16 items-center justify-between gap-space-lg px-margin md:h-20 md:px-margin-desktop">
-        <Logo />
+        <Logo header />
         <nav aria-label="Əsas menyu" className="hidden items-center gap-space-xs lg:flex">
           {nav.map((item) => (
             <NavLink
@@ -183,6 +189,7 @@ export function Layout() {
         Məzmuna keç
       </a>
       <Header key={pathname} />
+      <Intro />
       <main id="main" className="flex-1">
         <Outlet />
       </main>
